@@ -1,1 +1,2 @@
-# Blog-CMS-Laravel-multilanguage
+# Blog-CMS-Laravel
+Translation CMS laravel
